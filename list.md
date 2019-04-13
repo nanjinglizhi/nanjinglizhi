@@ -1,7 +1,10 @@
 hi
 
 
+
 ## 听歌
+
+自己用脚想了个方案，歌等会分为跨年与专辑两个分类（为了控制）
 
 - https://github.com/ChangMM/nanjinglizhi
 - https://github.com/app-AZ/njlizhi
