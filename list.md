@@ -2,8 +2,8 @@ hi
 
 ## 听歌
 
-自己用脚想了个方案，歌等会分为跨年与专辑两个分类（为了控制）
 
+- [电报资源频道](https://t.me/lizhiBB)
 - [dropbox](https://github.com/ChangMM/nanjinglizhi)
 - [mp3文件](https://github.com/app-AZ/njlizhi)
 - [按专辑与live分类](https://github.com/kong5664546498/lizhizhuangbi)
